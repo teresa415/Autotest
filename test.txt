@@ -1,9 +1,8 @@
-cxt test 
+cxt test
 hahahahaha
 kaixining
-
 bianjiyihou dejieguo shi shenmei lei???
 哈哈哈，你猜吖
-
-
 啦啦啦啦啦啦啦啦
+这是master分支上的内容
+这是mergedemo上的内容
