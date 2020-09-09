@@ -6,3 +6,4 @@ bianjiyihou dejieguo shi shenmei lei???
 啦啦啦啦啦啦啦啦
 这是master分支上的内容,这是mergedemo上的内容,mergedemo,这是mergedemo分支上的内容
 version1
+version2
